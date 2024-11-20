@@ -4,11 +4,11 @@ chat
 
 ##back end
 
-SpringBoot 3.0
-MyBatis 3.0
-MySql 8.0
+*SpringBoot 3.0
+*MyBatis 3.0
+*MySql 8.0
 
 ###fontEnd
 
-Vue 3.0
-CSS
+*Vue 3.0
+*CSS
